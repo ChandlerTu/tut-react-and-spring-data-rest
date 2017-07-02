@@ -9,3 +9,15 @@ asciidoctor.css
 README.html
 built
 dump.rdb
+*.prefs
+security/.project
+hypermedia/.project
+security/.classpath
+hypermedia/.classpath
+events/.project
+events/.classpath
+conditional/.project
+conditional/.classpath
+basic/.project
+basic/.classpath
+.project
